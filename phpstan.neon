@@ -1,0 +1,5 @@
+parameters:
+	autoload_directories:
+		- %rootDir%/../../../app
+		- %rootDir%/../../../tests
+
